@@ -1,0 +1,31 @@
+.transactionTable {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px auto;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 16px;
+}
+
+.transactionHead {
+  background-color: black;
+  color: white;
+}
+
+.transactionRow {
+  padding: 10px;
+  font-weight: bold;
+}
+
+.transactionData {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.transactionEven {
+  background-color: #e0e0e0;
+}
+
+.transactionOdd {
+  background-color: white;
+}
